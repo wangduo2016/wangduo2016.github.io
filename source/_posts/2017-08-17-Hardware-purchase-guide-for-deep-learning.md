@@ -2,7 +2,7 @@
 title: 深度学习硬件购买指南
 date: 2017-08-17 10:34:03
 author: wangduo
-cover: /assets/images/VCG21gic13471726.jpg
+cover: http://ovu6dymqj.bkt.clouddn.com/20170817-cover0-VCG21gic13471726.jpg
 tags: [硬件购买, Purchase guide, 深度学习, Deep learning]
 categories: Deep learning
 ---

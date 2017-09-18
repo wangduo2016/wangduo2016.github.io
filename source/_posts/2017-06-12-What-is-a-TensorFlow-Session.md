@@ -2,7 +2,7 @@
 title: What is a TensorFlow Session?
 date: 2017-06-12 14:03:10
 author: wangduo
-cover: /assets/images/VCG21gic13789859.jpg
+cover: http://ovu6dymqj.bkt.clouddn.com/20170612-cover-VCG21gic13789859.jpg
 tags: [TensorFlow, Session]
 categories: Deep learning
 ---

@@ -2,7 +2,7 @@
 title: PARAMETER和ARGUMENT的区别
 date: 2017-09-11 19:15:20
 author: wangduo
-cover: /assets/images/.jpg
+cover: .jpg
 tags: [PARAMETER, ARGUMENT, C++, Ubuntu]
 categories: C++
 ---

@@ -2,7 +2,7 @@
 title: 卷积神经网络(Convolutional Neural Network, CNN)简析
 date: 2017-04-25 22:05:58
 author: wangduo
-cover: /assets/images/VCG21gic13433667.jpg
+cover: http://ovu6dymqj.bkt.clouddn.com/20170425-cover-VCG21gic13433667.jpg
 tags: [CNN, Convolutional Neural Network, Deep learning]
 categories: Deep learning
 ---

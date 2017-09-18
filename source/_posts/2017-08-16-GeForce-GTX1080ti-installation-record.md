@@ -2,7 +2,7 @@
 title: GeForce GTX 1080 ti安装记录
 date: 2017-08-16 17:15:32
 author: wangduo
-cover: /assets/images/VCG21gic13789852.jpg
+cover: .jpg
 tags: [显卡, GeForce GTX 1080 ti]
 categories: Deep learning
 ---

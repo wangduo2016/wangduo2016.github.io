@@ -2,7 +2,7 @@
 title: Ubuntu 16.04 + CUDA 8.0 + cuDNN v5.1 + TensorFlow(GPU support)安装配置详解
 date: 2017-08-17 10:40:42
 author: wangduo
-cover: /assets/images/VCG21gic13789852.jpg
+cover: http://ovu6dymqj.bkt.clouddn.com/20170817-cover1-VCG21gic13789852.jpg
 tags: [TensorFlow, GPU support, Ubuntu 16.04, CUDA 8.0, cuDNN v5.1]
 categories: Deep learning
 ---
