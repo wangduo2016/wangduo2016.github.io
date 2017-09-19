@@ -4,7 +4,7 @@ date: 2017-09-07 21:39:58
 author: wangduo
 cover: http://ovu6dymqj.bkt.clouddn.com/20170907-cover-VCG21f2934bd0a.jpg
 tags: [Windows, win10, Ubuntu, Ubuntu 16.04, 打印机, printer]
-categories: Deep learning
+categories: Linux
 ---
 
 Ubuntu下使用cups共享打印机， 是一种简单易用的方法。CUPS(Common UNIX Printing System，通用Unix打印系统)是Fedora Core3中支持的打印系统，它主要是使用IPP(Internet Printing Protocol)来管理打印工作及队列，但同时也支持"LPD"(Line Printer Daemon)和"SMB"(Server Message Block)以及AppSocket等通信协议。(From baike.baidu.com)
