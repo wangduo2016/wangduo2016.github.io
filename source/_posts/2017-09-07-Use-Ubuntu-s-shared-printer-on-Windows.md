@@ -2,7 +2,7 @@
 title: 在Windows上使用Ubuntu共享的打印机
 date: 2017-09-07 21:39:58
 author: wangduo
-cover: .jpg
+cover: http://ovu6dymqj.bkt.clouddn.com/20170907-cover-VCG21f2934bd0a.jpg
 tags: [Windows, win10, Ubuntu, Ubuntu 16.04, 打印机, printer]
 categories: Deep learning
 ---

@@ -2,7 +2,7 @@
 title: 理解 LSTM(Long Short-Term Memory, LSTM) 网络 &#91译&#93
 date: 2017-04-27 14:17:58
 author: wangduo
-cover: .jpg
+cover: http://ovu6dymqj.bkt.clouddn.com/20170427-cover-VCG21gic16228303.jpg
 tags: [LSTM, Deep learning]
 categories: Deep learning
 ---

@@ -2,7 +2,7 @@
 title: 来来来，干了这碗毒鸡汤……
 date: 2017-05-07 14:12:14
 author: wangduo
-cover: http://ovu6dymqj.bkt.clouddn.com/20170507-cover-VCG21gic16228303.jpg
+cover: http://ovu6dymqj.bkt.clouddn.com/20170507-cover-VCG41157686103.jpg
 tags: 毒鸡汤
 categories: Funny stuff
 ---
