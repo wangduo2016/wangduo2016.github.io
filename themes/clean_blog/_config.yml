@@ -5,9 +5,9 @@ menu:
   Tags: /tags
   Categories: /categories
   About: /about
-#  Github:
-#    url: https://github.com/woduo
-#    icon: github
+  Github:
+    url: https://github.com/wduo
+    icon: github
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: wangduo's blog
