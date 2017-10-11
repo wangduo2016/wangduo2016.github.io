@@ -18,10 +18,10 @@ http://jingyan.baidu.com/article/d5c4b52bc0ae1fda560dc5ac.html
 http://jingyan.baidu.com/article/dca1fa6fa3b905f1a44052bd.html
 建议使用Universal USB Installer，简单小巧易用。本实验的Ubuntu 16.04的分区大小及设置如下（仅供参考）：
 ```
-boot 主分区 Ext4 10240MB
-/ 逻辑分区 Ext4 20480MB
-/home 逻辑分区 Ext4 20480MB
-swap 逻辑分区 10240MB
+boot 主分区 Ext4 8192MB(8G)
+/ 逻辑分区 Ext4 81920MB(80G)
+/home 逻辑分区 Ext4 153600MB(150G)
+swap 逻辑分区 8192MB(8G)
 ```
 
 
